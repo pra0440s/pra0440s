@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Pranav Balaji Balachandran
+
+ 
+ - Master's student in Autonomous Driving | Mechanical Engineering background | Python & ROS2 enthusiast | AI & Robotics explorer | Movie & Travel Lover
+
+
 
 <!--
 **pra0440s/pra0440s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
