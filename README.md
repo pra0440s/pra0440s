@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Pranav Balaji Balachandran [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Automotive+Enthusiast;ROS2+%7C+AI+%7C+Robotics+Explorer;Building+Future+Autonomous+Transportation+🚗)](https://git.io/typing-svg)
+## Hi there 👋 I'm Pranav Balaji Balachandran [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Automotive+Enthusiast;Building+Future+Autonomous+Transportation+🚗)](https://git.io/typing-svg)
 
  
 Master's student in Autonomous Driving | Mechanical Engineering background | Python & ROS2 enthusiast | AI & Robotics explorer | Movie & Travel Lover
